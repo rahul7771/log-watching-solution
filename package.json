@@ -1,0 +1,16 @@
+{
+  "name": "log-watching-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "fs-backwards-stream": "^1.0.0",
+    "read-last-lines": "^1.8.0",
+    "socket.io": "^1.4.6",
+    "async": "^2.1.4"
+  }
+}
